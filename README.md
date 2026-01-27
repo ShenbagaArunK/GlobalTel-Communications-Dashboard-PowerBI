@@ -5,7 +5,7 @@ This project transforms raw telecommunications data into a high-performance visu
 
 ### 🛠 Tech Stack
 * **Tool:** Power BI Desktop
-* **Key Skills:** DAX (Data Analysis Expressions), Data Modeling, UX/UI Design, Advanced Drill-through.
+* **Key Skills:** DAX (Data Analysis Expressions), Data Modeling, Advanced Drill-through.
 
 ---
 
