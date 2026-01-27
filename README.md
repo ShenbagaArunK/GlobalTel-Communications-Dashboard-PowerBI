@@ -1,22 +1,22 @@
-# 📞 GlobalTel Communications Dashboard
+# GlobalTel Communications Dashboard
 
-### 🎯 Project Overview
+### Project Overview
 This project transforms raw telecommunications data into a high-performance visual narrative. Moving from my background in texturing to data, I focused on creating a dashboard that doesn't just show numbers but tells the story of customer behavior and operational efficiency.
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Tool:** Power BI Desktop
 * **Key Skills:** DAX (Data Analysis Expressions), Data Modeling, Advanced Drill-through.
 
 ---
 
-### 📊 Project Screenshots
+### Project Screenshots
 | Main Executive Summary | Insights & Recommendations |
 | :---: | :---: |
 | ![Executive Summary](./Ref_Images_01.png) | ![Insights Page](./Ref_Images_04.png) |
 
 ---
 
-### 💡 Key Technical Features
+### Key Technical Features
 
 #### 1. Strategic KPI Tracking
 I implemented a high-level executive header tracking core business metrics to provide instant health checks:
@@ -35,7 +35,9 @@ Unlike standard dashboards, this project includes a specific "Management View" f
 * **Operations:** Identifying LATAM market payment trends and "Legacy/3G" device churn risks.
 * **Customer Experience:** Correlating repeat tickets with CSAT drops to recommend Tier 2 escalation paths.
 
-### 🚀 How to View
+---
+
+### How to View
 1. Download the `.pbix` file.
 2. Open with Power BI Desktop to interact with the filters, slicers, and drill-through features.
 
