@@ -42,4 +42,3 @@ Unlike standard dashboards, this project includes a specific "Management View" f
 2. Open with Power BI Desktop to interact with the filters, slicers, and drill-through features.
 
 ---
-*A restless mind is better than a stagnant one—constantly iterating on data clarity.*
